@@ -23,7 +23,7 @@ _an2.psd: animated version of hmmm3.psd_
 
 > Download desired version
 
-> Open with photoshop || anything that open_file.psd = true
+> Open with photoshop || anything that open_file.psd = true  (online editor: [click here](https://studio.psdetch.com/))
 
 > edit
 
