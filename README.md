@@ -16,7 +16,7 @@ __*hmm1.psd: 1st gen*__
 
 _________________________________
 
-_an2.psd: animation version of hmmm3.psd_
+_an2.psd: animated version of hmmm3.psd_
 
 
 ## How to customize
