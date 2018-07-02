@@ -4,7 +4,7 @@
 > "Official" ITK71 cnh profile pic
 
 
-## ABout
+## About
 
 
 __*hmmm3.psd: final gen*__
@@ -17,6 +17,8 @@ __*hmm1.psd: 1st gen*__
 _________________________________
 
 _an2.psd: animated version of hmmm3.psd_
+
+__*NewNew.psd: final animated ver*__
 
 
 ## How to customize
