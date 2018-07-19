@@ -27,6 +27,8 @@ __*NewNew.psd: final animated ver*__
 
 > Open with photoshop || anything that open_file.psd = true  (online editor: [click here](https://studio.psdetch.com/))
 
+**RECOMMENDED EDITOR: GIMP -free, open source [click here](https://www.gimp.org/)**
+
 > edit
 
 > add text ( hashtags font: Segoe Script; hello world font: Source Code Variable) 
