@@ -1,17 +1,17 @@
 
 ## What is this?
 
-> "Official" ITK71 cnh profile pic
+ "Official" ITK71 cnh profile pic
 
 
 ## About
 
 
-__*hmmm3.psd: final gen*__
+__*hmmm3.psd: final generation*__
 
-__*hmmm2.psd: 2nd gen*__
+__*hmmm2.psd: 2nd generation*__
 
-__*hmm1.psd: 1st gen*__
+__*hmm1.psd: 1st generation*__
 
 
 _________________________________
@@ -23,12 +23,14 @@ __*NewNew.psd: final animated ver*__
 
 ## How to customize
 
-> Download desired version
+1. Download desired version
 
-> Open with photoshop || anything that open_file.psd = true  (online editor: [click here](https://studio.psdetch.com/))
+2. Open with photoshop || anything that open_file.psd = true
+
+3. edit
+
+4. profit
 
 **RECOMMENDED EDITOR: GIMP -free, open source [click here](https://www.gimp.org/)**
 
-> edit
-
-> add text ( hashtags font: Segoe Script; hello world font: Source Code Variable) 
+_text ( hashtags font: Segoe Script; hello world font: Source Code Variable)_ 
