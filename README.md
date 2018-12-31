@@ -1,7 +1,7 @@
 
 ## What is this?
 
- "Official" ITK71 cnh profile pic
+ "Official" ITK71 cnh profile pic (2018)
 
 
 ## About
