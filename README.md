@@ -2,7 +2,12 @@
 ## What is this?
 
  "Official" ITK71 cnh profile pic (2018)
+ 
+ July 1, 2018
 
+image [Here](https://drive.google.com/drive/folders/1skvKrSEg-GvLba8hH2HaW9hIyU8ZiwkV?fbclid=IwAR3miqHRHcCiFumzxn1H8f1t3GS1qu6egL1iKxTihaFVSowdcrOtQWzLClk)
+
+_link warning:_ not english
 
 ## About
 
